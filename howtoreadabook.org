@@ -1,4 +1,98 @@
 #+TITLE: HowToReadABook
 #+AUTHOR: Adler, M
 #+ROAM_KEYS: "non fiction"
-#+Links:
+#+Links: [[file:../zettlekasten/20200601-reading.org][Reading]]
+
+* Main Theme
+
+* Prominent Ideas
+_these should back up the main theme_
+
+* Important Terms
+	_terms is not a word but how the word is used in the book_
+** Expository
+	 Used to signify a work of non-fiction that is trying to teach something.
+** Reading
+	 Used to mean active reading with the intention of gaining understanding of the written work. This
+	 is in contrast to reading for entertainment.
+
+* Vocabulary
+| Word         | Definition                                                |
+|--------------+-----------------------------------------------------------|
+| interstitial | Occupying the space in between                            |
+| diaphanous   | Having the characteristic of being translucent or ethereal |
+| ostensibly   | Having the appearance of                                  |
+| expository   | Non-fiction                                               |
+
+* Notes
+** Import Ideas
+	 People read to learn, it is (was) the primary way people learn.
+	 Education stops reading growth in the 6th grade.
+	 Reading is a skill and it is active, not a passive activity
+	 Fully understanding a book is what a good book deserves
+
+	 A book can be used for entertainment or learning, but only good books are really useful for
+	 learning. This includes good fiction.
+
+	 Why you read determines how you read. (Quote from Chpt 2 )
+
+	 4 types of reading
+	 + Elementary, understanding the words on the page.
+	 + Inspectional, previewing the book, including the table of content, preface, author's
+     note, index.  Possibly even skimming certain section, this is the first step in understanding a
+     book, applicable mostly to expository writing.
+	 + Analytical, trying to understand completely what the author was saying, not simply for
+     knowledge or entertainment.
+	 + Syntopic, reading two or more pieces on the same subject and comparing them.
+
+	 Teacher student relationship is similar to an author reader relationship.
+
+	 A book cannot enlighten if you don't try to understand it.
+** Inspectional Reading	 (Chpt 4)
+	 Ask myself do I want to this book? Why?
+
+	 What is being said in the title, the title page, preface, index, table of contents etc.. will
+	 give a good idea what the book is about and whether or not it is worth reading.
+
+	 Inspectional reading implies a limited time not enough to read the book from cover to cover, and
+	 definitely not long enough to full understand it.
+
+	 Inspectional should allow one to choose if they should read the whole book or parts of it.  It
+	 should also be obvious after this, whether the book is worth reading.  A worthwhile book is not
+	 worthwhile for everyone.
+
+** Analytical Read
+	 4 Questions
+	 + What is the book about?
+	 + What is being said in detail? How?
+	 + Is it true? Partially/Completely?
+	 + What do I make of what I learned?  How do I use it?
+
+	 Actively ask questions and try to answer them while reading.
+	 Writing/highlighting/underlying in a book aids in learning.
+
+*** Rules to analytical reading
+
+**** Classify The Book
+		How best to categorize the book?
+		. Fiction/Non-Fiction
+		. Theoretical/Practical
+		. Science/Philosophy/Math/Social Commentary
+
+**** What is the book about?
+		 This should be a sentence or two, no more than a paragraph that describes the central theme of
+		 the book.  If it can be said in this amount, than the book is probably not well understood, or
+		 potentially not a very good book.
+
+**** What are the major parts?
+		 This is essentially an outline of the book, describing how the major parts related to the
+		 central theme.  It is here that the sub-themes and secondary parts get described.
+
+**** Define the problem the author is trying to solve?
+		 *I need to go back over this*
+
+*** Terms
+		The word term is use when the definition of the word is ambiguous but the authors use is such
+		that there can only be one meaning.  Terms are important to what the author is trying to say.
+
+		Find the key words/terms that the author is using
