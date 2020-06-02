@@ -1,6 +1,6 @@
 #+TITLE: Books
 #+ROAM_TAGS: fiction "non-fiction"
-#+-Tags::
+-links::[[file:20200601-reading.org][Reading]]
 
 * To Read
 ** Fiction

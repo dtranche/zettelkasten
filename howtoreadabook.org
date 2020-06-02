@@ -1,7 +1,7 @@
 #+TITLE: HowToReadABook
 #+AUTHOR: Adler, M
 #+ROAM_KEYS: "non fiction"
-#+Links: [[file:../zettlekasten/20200601-reading.org][Reading]]
+-links: [[file:20200601-reading.org][Reading]]
 
 * Main Theme
 
@@ -17,12 +17,12 @@ _these should back up the main theme_
 	 is in contrast to reading for entertainment.
 
 * Vocabulary
-| Word         | Definition                                                |
-|--------------+-----------------------------------------------------------|
-| interstitial | Occupying the space in between                            |
+| Word         | Definition                                                 |
+|--------------+------------------------------------------------------------|
+| interstitial | Occupying the space in between                             |
 | diaphanous   | Having the characteristic of being translucent or ethereal |
-| ostensibly   | Having the appearance of                                  |
-| expository   | Non-fiction                                               |
+| ostensibly   | Having the appearance of                                   |
+| expository   | Non-fiction                                                |
 
 * Notes
 ** Import Ideas
