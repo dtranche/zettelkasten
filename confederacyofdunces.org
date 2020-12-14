@@ -1,8 +1,8 @@
-#+TITLE: ConfederacyOfDunces
 
-#+AUTHOR: John Kennedy Tool
-#+ROAM_TAGS: fiction, pulitzer
-#links:
+#+TITLE: ConfederacyOfDunces
+#+AUTHOR: "John Kennedy Tool"
+#+ROAM_TAGS: fiction pulitzer
+#links: [[file:../org-roam/books.org][Books]] [[file:20200601-reading.org][Reading]]
 
 * Main Character
 - Ignatious Reily
