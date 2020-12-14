@@ -1,0 +1,6 @@
+#+TITLE: KentBeckCodingPrinciples
+
+#+ROAM_KEYS: Programming
+links: [[file:20200531-learning.org][Learning]]
+
+https://alvinalexander.com/misc/kent-becks-four-rules-software-simple-design/

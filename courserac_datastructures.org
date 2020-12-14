@@ -1,0 +1,15 @@
+#+TITLE: CourseraC++DataStructures
+
+#+Source:
+#+ROAM_KEYS: Programming "Data structures"
+links:
+
+* B-Trees
+A b-tree is a tree structure that is based on minimize the number of seeks that is not in memory,
+this is done by having a large number of keys per node.
+
+The maximum number of keys per node + 1, is the order of the b-tree.
+
+B-Trees typically have an odd order.
+
+The height of a b-tree is log_{m}(n) where m is the order of the b-tree and n is the number of nodes.

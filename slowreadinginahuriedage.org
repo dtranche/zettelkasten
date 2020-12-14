@@ -1,0 +1,43 @@
+#+TITLE: SlowReadingInAHuriedAge
+#+AUTHOR: David Mikics
+#+ROAM_TAGS: non-fiction
+links:  [[file:../org-roam/books.org][Books]] [[file:20200601-reading.org][Reading]]
+
+* Overview
+Somewhat a sequel to Alder's "How to Read a Book", but much more current.  Mikics writes about 14 rules on how to read a
+book. He starts with patience and concludes with get another book.
+
+* Thoughts
+
+* The Rules
+ Mikics has 14 rules for reading, regardless of the type of writing, though he doesn't go into self help type books at
+ all .
+** Patience
+	 Do not let the difficulties stop you from reading.  If the book is worth reading then it is worth putting in the
+	 work.
+** Ask the Right Questions
+	 Example what does the beginning have to do with the ending? Is the title important?  What does one character say
+	 about another.
+** Identify the Voice
+	 Voice can be the sense of place - ala Dickens. The voice can change from section to section depending on the narrator
+	 or persons in the scene
+** Get a Sense of Style
+** Notice Beginnings and Endings
+** Identify Signposts
+** Use the Dictionary
+
+
+* Quotes
+ - And when we have finished reading (a book) we take away not a set fo facs of a sense of the book's "message" but the
+   memory of an experienced palce, a country we have traveled to.
+
+ - We must make an effort to inhabit the voice that speak through a book, to be, for a few hours, in its world.
+
+ - "that struggling with a book's meaning is the whole point of reading, if reading is going to be worthwhile"
+* Vocabuary
+
+* Other Works
+
+	. Reading In Slow Motion - Lindsay Water
+	. Time for Reading - Bowers
+	. On Rereading - Particia Spacks
