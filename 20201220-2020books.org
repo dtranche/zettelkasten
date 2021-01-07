@@ -1,0 +1,17 @@
+#+TITLE: 2020Books
+#+ROAM_TAGS:
+links:
+
+* Fiction
+[[file:invisibleman.org][InvisibleMan]]
+[[file:lonesomedove.org][LonesomeDove]]
+[[file:theburiedgiant.org][TheBuriedGiant]]
+[[file:confederacyofdunces.org][ConfederacyOfDunces]]
+[[file:1q84.org][1Q84]]
+
+* Non Fiction
+[[file:reverenceforwood.org][ReverenceForWood]]
+[[file:howtoreadabook.org][HowToReadABook]]
+[[file:slowreadinginahuriedage.org][SlowReadingInAHuriedAge]]
+[[file:oldinartschool.org][OldInArtSchool]]
+[[file:deepwork.org][DeepWork]]

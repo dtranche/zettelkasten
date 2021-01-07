@@ -1,0 +1,19 @@
+#+TITLE: OrgHowTo
+#+ROAM_TAGS:
+links:
+
+Notes from youtube video
+https://www.youtube.com/watch?v=oJTwQvgfgMM
+
+* Note taking organization
+	TASK is not the first
+	Notes before TASK
+
+	Outline mode didn't solve for his problem
+
+* Key strokes
+	TAB and SHIFT-TAB
+	SHIFT-UP SHIFT-DOWN - priority
+	SHIFT-LEFT - SHIFT-RIGHT todo/done
+* Task
+** Overlaying metadata on note

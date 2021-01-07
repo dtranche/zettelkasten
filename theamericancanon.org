@@ -1,0 +1,46 @@
+#+TITLE: theamericancanon
+#+AUTHOR: Harold BLoom
+#+ROAM_TAGS: non-fiction criticism
+#+BeginDate:
+#+EndDate:
+links:[[file:20200601-reading.org][Reading]] [[file:books.org][Books]]
+
+* Overview
+A series of essays about authors from Emerson to Pynchon, that related one to each other.  A main
+theme is how Emerson is the "father" of American thought in literature.
+
+The book was collected (edited) by David Mikics ([[file:slowreadinginahuriedage.org][SlowReadingInAHuriedAge]])
+
+* Thoughts
+Not over accesible, especially the essays on poets, Stevens, Crane, etc..  The essays demand a level
+of familiarity that an average reader probably doesn't have.
+
+Uses the term deamon a lot when describing writer's works.  Not necessarily the writer
+
+Speaks highly of "A Scarlet Letter" and "Moby Dick"
+
+(Didn't take great notes )
+** Wallace Stevens
+	 Thinks "The Auroras of Autumn" is one of the greatest works of American literature. Wallace wrote
+	 a poem called "A Quiet Normal Life" which [[file:20210106-warrenzevon.org][WarrenZevon]] used as the title of his greatest hits
+	 album.
+
+	 "The reader who loves Stevens learns to a passion for Yes, and lears also that such a passion,
+	 like the imagination, need to be indulged."
+
+** Walt Whitman
+	 Claims he is for the elite, not readily availbel for the masses
+
+
+* Vocabulary
+ |            |                                     |
+ | topi       |                                     |
+ | aphorist   | A peson who make pithy observations |
+ | jeremaid   |                                     |
+ | desiccated | When one goest against critics      |
+
+
+* Books to read
+	. Mrs Lonelyhears - Nathianiel West
+	. Song Of Solomon - Toni Morrison
+	. Blood Meridian - Cormack McCarthy
