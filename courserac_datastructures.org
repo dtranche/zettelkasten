@@ -1,7 +1,7 @@
 #+TITLE: CourseraC++DataStructures
 
 #+Source:
-#+ROAM_KEYS: Programming "Data structures"
+#+ROAM_TAGS: Programming "Data structures"
 links:
 
 * B-Trees
@@ -13,3 +13,25 @@ The maximum number of keys per node + 1, is the order of the b-tree.
 B-Trees typically have an odd order.
 
 The height of a b-tree is log_{m}(n) where m is the order of the b-tree and n is the number of nodes.
+
+* Heaps
+Heaps can be represented as a complete binary tree, complete binary trees have all leaves at the
+same level, and leaves must be pushed to the right.
+The tree is a heap if it is complete and if T is not empty, then every subtree must must be such
+that T = {v, Tr, Tl }. the value of v, must be less than the value of every node in Tr and Tl.
+
+A heap can be represented as an array, to mach insertion and deletion quick and easy.
+The parent of any node can be found by m/2, the left child is (2*index) the right child is
+(2*index) + 1
+
+* Hashing
+Onto Function -> 1 to 1 mapping each key generats a unique value, and all of the array is used
+
+Petals around the rose -> really bad mapping function, interesting dice game/example
+
+Hash function takes an input and converts it to an integer,  the integer is usually truncated via modulo math
+
+Three characteristics of a good has function
+- O(1) , needs to run in constant time and needs to be fast, it will be called often
+- Deterministic for a given input, it must always generat the same key
+- SUHA - Simple Uniform Hashing Assumption,  must be uniform across all keys.

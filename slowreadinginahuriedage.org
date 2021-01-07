@@ -1,7 +1,7 @@
 #+TITLE: SlowReadingInAHuriedAge
 #+AUTHOR: David Mikics
 #+ROAM_TAGS: non-fiction
-links:  [[file:../org-roam/books.org][Books]] [[file:20200601-reading.org][Reading]]
+links:  [[file:../org-roam/books.org][Books]] [[file:20200601-reading.org][Reading]] [[file:20201220-2020books.org][2020Books]]
 
 * Overview
 Somewhat a sequel to Alder's "How to Read a Book", but much more current.  Mikics writes about 14 rules on how to read a
@@ -22,11 +22,30 @@ book. He starts with patience and concludes with get another book.
 	 Voice can be the sense of place - ala Dickens. The voice can change from section to section depending on the narrator
 	 or persons in the scene
 ** Get a Sense of Style
+
 ** Notice Beginnings and Endings
+	 Often the beginning and the ending of a book (or poem) are directly related,  go back and read it.  Other beginnings
+	 can come during the story, a new character or place
 ** Identify Signposts
+	 Importand words, sentences, scenes that cause the reader to stop and take notice.  The goal is to identify these as
+	 you read, stopping and thinking about them.
 ** Use the Dictionary
-
-
+	 Write words down that you don't know,  use a good dictionary OED, is the best.
+** Find the Author's basic thought
+	 Discover the essential question that animates the author
+** Be suspicious
+	 Don't to hastily judge a character, they may not be good or bad as initiall thought.  Think about why the character
+	 exists.
+** Find the Parts
+	 How is the story organized, not just a plot line but how do the different scenes play against each other, are there
+	 patterns, etc..
+** Write it down
+	 Take notes, record thoughts, impressions, feelings.  Record important words, quotes and details.
+** Explore different paths
+	 What would happen if the character chose differently?
+** Find another Book
+	 A book by the same author (depth), a book that takes a different look at the same time period, or subject matter.
+	 How was the author different?
 * Quotes
  - And when we have finished reading (a book) we take away not a set fo facs of a sense of the book's "message" but the
    memory of an experienced palce, a country we have traveled to.
@@ -34,10 +53,29 @@ book. He starts with patience and concludes with get another book.
  - We must make an effort to inhabit the voice that speak through a book, to be, for a few hours, in its world.
 
  - "that struggling with a book's meaning is the whole point of reading, if reading is going to be worthwhile"
-* Vocabuary
 
+ - "Talking to oneself, dreaming, gossiping and reminiscing are ways of instruction too, but we wouldn't want to ruin
+   them by putting them in a classroom:"
+* Vocabulary
+	solipsim - the philosophy that the self is the only thing that can be known and verified
+	stochastic - relating to conjecture,  including random variables or processes
 * Other Works
 
 	. Reading In Slow Motion - Lindsay Water
 	. Time for Reading - Bowers
 	. On Rereading - Particia Spacks
+
+** Short Stories
+	 - Death Of A Traveling Salesman Eudora Wetly
+	 - Wakefied Nathianiel Hawthorne
+	 - Fragment of Stained Glass DH Lawerence
+	 - The Secret Miricale Borges
+	 - Wild Swans Alice Munro
+	 - The Open Boat Stephen Crane
+
+** Novels
+    1) The Professor's House Willa Cather
+    2) Daisy Miller Henry James
+		3)
+** Poems
+** Dramas

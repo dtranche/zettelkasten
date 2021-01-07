@@ -1,20 +1,27 @@
 #+TITLE: HowToReadABook
 #+AUTHOR: Adler, M
-#+ROAM_KEYS: "non fiction"
--links: [[file:20200601-reading.org][Reading]]
+#+ROAM_TAGS: non-fiction
+links: [[file:20200601-reading.org][Reading]]
 
-* Main Theme
+* Main Theme`
 
 * Prominent Ideas
-_these should back up the main theme_
+  these should back up the main theme
 
 * Important Terms
-	_terms is not a word but how the word is used in the book_
+	terms is not a word but how the word is used in the book_
 ** Expository
 	 Used to signify a work of non-fiction that is trying to teach something.
 ** Reading
 	 Used to mean active reading with the intention of gaining understanding of the written work. This
 	 is in contrast to reading for entertainment.
+** Propostion
+   The idea or fact that the author is saying is true.  There can be multiple proposition in a
+   sentence.
+** Term
+		The word term is use when the definition of the word is ambiguous but the authors use is such
+		that there can only be one meaning.  Terms are important to what the author is trying to say.
+
 
 * Vocabulary
 | Word         | Definition                                                 |
@@ -22,6 +29,10 @@ _these should back up the main theme_
 | interstitial | Occupying the space in between                             |
 | diaphanous   | Having the characteristic of being translucent or ethereal |
 | ostensibly   | Having the appearance of                                   |
+| tautology    | Saying the same thing twice, with different words          |
+|              | (Logic) a statement that is true by necessity              |
+| legerdemain  | deception, trickery, often via slight of hand              |
+| besetting    | constantly present or attacking                            |
 | expository   | Non-fiction                                                |
 
 * Notes
@@ -63,10 +74,10 @@ _these should back up the main theme_
 
 ** Analytical Read
 	 4 Questions
-	 + What is the book about?
-	 + What is being said in detail? How?
-	 + Is it true? Partially/Completely?
-	 + What do I make of what I learned?  How do I use it?
+	 - What is the book about?
+	 - What is being said in detail? How?
+	 - Is it true? Partially/Completely?
+	 - What do I make of what I learned?  How do I use it?
 
 	 Actively ask questions and try to answer them while reading.
 	 Writing/highlighting/underlying in a book aids in learning.
@@ -79,20 +90,34 @@ _these should back up the main theme_
 		. Theoretical/Practical
 		. Science/Philosophy/Math/Social Commentary
 
+**** What are the major parts?
+		 This is essentially an outline of the book, describing how the major parts related to the
+		 central theme.  It is here that the sub-themes and secondary parts get described.
+
 **** What is the book about?
 		 This should be a sentence or two, no more than a paragraph that describes the central theme of
 		 the book.  If it can be said in this amount, than the book is probably not well understood, or
 		 potentially not a very good book.
 
-**** What are the major parts?
-		 This is essentially an outline of the book, describing how the major parts related to the
-		 central theme.  It is here that the sub-themes and secondary parts get described.
-
 **** Define the problem the author is trying to solve?
 		 *I need to go back over this*
 
-*** Terms
-		The word term is use when the definition of the word is ambiguous but the authors use is such
-		that there can only be one meaning.  Terms are important to what the author is trying to say.
-
 		Find the key words/terms that the author is using
+
+    A recurring idea is that reading is learning without teacher, to learn without having someone to
+    guide us.
+
+		Try and find the most important sentences in a book, these are the sentences that the reader
+		needs to spend the most time thinking about.
+
+		Locate the arguments in the book, based upon the sentences, the senetences should connect to one
+		another to make a coherent arguement.
+
+		Knoweldge vs understanding is the learning of facts versus the a deeper comprehension of what
+		was written.
+
+		To understand a proposition, the reader most be able to state what is means in their own words.
+		Repeating the words of the author does not demonstrate understanding.
+
+		Inductive reasoning is using facts that to bolster a generalization, deducative reasoning is
+		using generalizations to bolster generalizations.
